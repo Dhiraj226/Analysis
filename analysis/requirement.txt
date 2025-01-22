@@ -1,0 +1,4 @@
+pandas
+matplotlib==3.7.1
+numpy
+streamlit
